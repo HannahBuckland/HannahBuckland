@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Hello I’m Hannah (she|her), I am a PhD researcher at the University of Bristol working with the Volcanology Research Group.  
+Hello I’m Hannah (she|her), I am a posdoctoral researcher at Swansea University working with the Swansea Tephra Group.  
 
-Throughout my postgraduate career I have developed a passion for data analysis and visualisation as a means of storytelling.
+Throughout my research career I have developed a passion for data analysis and visualisation as a means of storytelling.
 
 # [CV](https://hannahmbuckland.wordpress.com/cv/)
 
